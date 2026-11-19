@@ -29,6 +29,7 @@ A curated list of resources for the **Universal Commerce Protocol (UCP)** — th
 ## Tools
 - [spck-conformance](https://github.com/vishkaty/ucp-conformance) — conformance checker where every check is kill-rate-validated (proven to catch the defect it's for); browser / pip / GitHub Action; REST + MCP. Web: [spck.dev/check](https://spck.dev/check).
 - *(add yours via PR)*
+- [AutoTasker Hub](https://autotasker.highkingflower.com) - Deterministic per-call pricing for public data APIs, discoverable via MCP and settled with x402 USDC on Base.
 
 ## Guides & articles
 - [How to Implement UCP in 2026: Complete /.well-known/ucp Setup Guide](https://wearepresta.com/how-to-implement-universal-commerce-protocol-ucp-in-2026-complete-well-known-ucp-setup-guide/) — Presta.
